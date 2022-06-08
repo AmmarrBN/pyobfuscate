@@ -5,6 +5,10 @@ Encrypt Python Obfuscate Code
 <img src="https://github.com/AmmarrBN/pyobfuscate/blob/main/IMG_20220607_234203.jpg" width="440" title="Menu" alt="Menu">
 </p>
 
+# Img Encrypt
+<img src="https://github.com/AmmarrBN/pyobfuscate/blob/main/IMG_20220608_131005.jpg" width="440" title="Menu" alt="Menu">
+</p>
+
 <details open>
   <summary><strong> Install Package + Run Script </strong></summary>
 
